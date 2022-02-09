@@ -1,4 +1,4 @@
-package mango_cache
+package mangocache
 
 import (
 	"fmt"
