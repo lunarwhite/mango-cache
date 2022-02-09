@@ -1,4 +1,4 @@
-package mango_cache
+package mangocache
 
 // A ByteView holds an immutable view of bytes.
 type ByteView struct {

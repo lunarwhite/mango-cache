@@ -1,7 +1,7 @@
-package mango_cache
+package mangocache
 
 import (
-	"mango-cache/lru"
+	"mangocache/lru"
 	"sync"
 )
 
